@@ -1,0 +1,31 @@
+{
+  "name": "node_1",
+  "version": "1.0.0",
+  "description": "Segundo curso de NodeJS (Express)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server": "npx nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mauri20/Node_1.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "author": "MaapRoxa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mauri20/Node_1/issues"
+  },
+  "homepage": "https://github.com/Mauri20/Node_1#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
